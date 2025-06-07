@@ -4,7 +4,7 @@ def demographic_data_analyzer():
     #Column Name
     column_names = [
         'age', 'workclass', 'fnlwgt', 'education', 'education-num',
-        'marital-status', 'occupation', 'relationship', 'race', 'sex',
+        'marital-status', 'occupation', 'relationship', 'race', 'seX',
         'capital-gain', 'capital-loss', 'hours-per-week', 'native-country', 'salary'
     ]
 
